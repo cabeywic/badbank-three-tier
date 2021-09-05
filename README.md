@@ -1,5 +1,9 @@
 <h1>Badbank Three Tier</h1>
-MIT Backend Coursework Week 8 Project 
+MIT Backend Coursework Week 8 Project: A bad bank application which covers the basiccs of the MERN stack<br>
+ <hr>
+<img width="753" alt="Screenshot 2021-09-05 at 17 06 03" src="https://user-images.githubusercontent.com/83819599/132125297-bc18f2d9-7f3a-46f8-a0bf-4bd56f9449af.png">
+
+<img width="741" alt="Screenshot 2021-09-05 at 17 05 41" src="https://user-images.githubusercontent.com/83819599/132125280-6290de15-d254-4757-b8f3-3a57c07f457a.png">
 
 <h3>Installation Guide</h3>
 <ul>1. Run npm install </ul>
